@@ -8,7 +8,7 @@ const Aboutus = () => {
   return (
     <>
     <Subheading/>
-<h1 className='titles'>About US Page Comming soon..</h1>
+<h1 className='titles'>Updated About US Page Comming soon..</h1>
 
 <Footer/>
     </>

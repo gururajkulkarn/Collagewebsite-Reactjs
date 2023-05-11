@@ -4,9 +4,7 @@ import Footer from '../Footer'
 const Contact = () => {
   return (
     <>
-     <img src="Images/c.jpg"/>
-       
-       
+     <img src="Images/c.jpg"/>     
       <Footer/>
 
 
